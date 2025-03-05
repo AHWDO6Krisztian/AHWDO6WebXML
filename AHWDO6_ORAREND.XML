@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AHWDO6_orarand>
+
+	<ora id="01" tipus="Elmelet">
+		<kurzus>Szamitaselmelet</kurzus>
+		<idopont>
+			<nap>Hetfo</nap>
+			<tol>10:00</tol>
+			<ig>12:55</ig>
+		</idopont>
+		<helyszin>Onlline</helyszin>
+		<oktato>Dr. Veres Laura</oktato>
+		<szak>P.T.I</szak>
+	</ora>
+	
+	<ora id="02" tipus="Elmelet">
+		<kurzus>Komputergrafika és képfeldolgozás</kurzus>
+		<idopont>
+			<nap>Hetfo</nap>
+			<tol>14:00</tol>
+			<ig>15:25</ig>
+		</idopont>
+		<helyszin>Onlline</helyszin>
+		<oktato>Fazekas Levente Áron</oktato>
+		<szak>P.T.I</szak>
+	</ora>
+	
+	<ora id="03" tipus="Elmelet">
+		<kurzus>Precíziós mezőgazdaság alapjai</kurzus>
+		<idopont>
+			<nap>Hetfo</nap>
+			<tol>17:00</tol>
+			<ig>19:10</ig>
+		</idopont>
+		<helyszin>Onlline</helyszin>
+		<oktato>dr. Matus László</oktato>
+		<szak>P.T.I</szak>
+	</ora>
+	
+	<ora id="04" tipus="Elmelet">
+		<kurzus>Pilóta nélküli légijárműrendszerek ismeretei</kurzus>
+		<idopont>
+			<nap>Kedd</nap>
+			<tol>17:00</tol>
+			<ig>19:10</ig>
+		</idopont>
+		<helyszin>Onlline</helyszin>
+		<oktato>dr. Matus László</oktato>
+		<szak>P.T.I</szak>
+	</ora>
+	
+	<ora id="05" tipus="Gyakorlat">
+		<kurzus>Pilóta nélküli légijárműrendszerek ismeretei</kurzus>
+		<idopont>
+			<nap>Szerda</nap>
+			<tol>10:00</tol>
+			<ig>12:25</ig>
+		</idopont>
+		<helyszin>Furmint hotel hars</helyszin>
+		<oktato>Perlaki Attila</oktato>
+		<szak>P.T.I</szak>
+	</ora>
+	
+	<ora id="06" tipus="Gyakorlat">
+		<kurzus>Pilóta nélküli légijárműrendszerek ismeretei</kurzus>
+		<idopont>
+			<nap>Szerda</nap>
+			<tol>14:00</tol>
+			<ig>15:25</ig>
+		</idopont>
+		<helyszin>Furmint hotel kabar</helyszin>
+		<oktato>Dr. Bednarik László</oktato>
+		<szak>P.T.I</szak>
+	</ora>
+	
+	<ora id="06" tipus="Elmelet">
+		<kurzus>Hálózati architektúrák és protokollok</kurzus>
+		<idopont>
+			<nap>Szerda</nap>
+			<tol>17:00</tol>
+			<ig>18:20</ig>
+		</idopont>
+		<helyszin>Furmint hotel kabar</helyszin>
+		<oktato>Janics Tamás</oktato>
+		<szak>P.T.I</szak>
+	</ora>
+	
+	<ora id="07" tipus="Elmelet">
+		<kurzus>Valószínűségszámítás és statisztika </kurzus>
+		<idopont>
+			<nap>Csutortok</nap>
+			<tol>8:00</tol>
+			<ig>11:15</ig>
+		</idopont>
+		<helyszin>Furmint hotel kabar</helyszin>
+		<oktato>Dr. Földvári Attila József</oktato>
+		<szak>P.T.I</szak>
+	</ora>
+	
+	<ora id="08" tipus="Gyakorlat">
+		<kurzus>Oktatás és gamifikáció, videojáték-tanulmányok </kurzus>
+		<idopont>
+			<nap>Csutortok</nap>
+			<tol>12:00</tol>
+			<ig>14:35</ig>
+		</idopont>
+		<helyszin>Furmint hotel kabar</helyszin>
+		<oktato>Perlaki Attila</oktato>
+		<szak>P.T.I</szak>
+	</ora>
+	
+</AHWDO6_orarand>
