@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<vendeglatas xmnlns:xsi="http://www.w3.org/2001/XMLschema" xs:noNamespaceSchemaLocation="XMLSchemaAHWDO6.xsd">
+	<etterem ekod="e1">
+		<nev>Trófea</nev>
+		<cim>
+			<varos>Budapest</varos>
+			<utca>Visegrádi</utca>
+			<hazszam>13</hazszam>
+		</cim>
+		<csillag>4</csillag>
+	</etterem>
+	
+	<etterem ekod="e2">
+		<nev>Gundel</nev>
+		<cim>
+			<varos>Debrecen</varos>
+			<utca>Csapo</utca>
+			<hazszam>22</hazszam>
+		</cim>
+		<csillag>3</csillag>
+	</etterem>
+	
+	<foszakacs fkod="f1" e_f="e1">
+		<nev>Valaki biztos</nev>
+		<eletkor>25</eletkor>
+		<vegzettseg>Diploma</vegzettseg>
+	</foszakacs>
+	
+	<foszakacs fkod="f2" e_f="e2">
+		<nev>Aki akar lenni</nev>
+		<eletkor>42</eletkor>
+		<vegzettseg>Szaksuli</vegzettseg>
+		<vegzettseg>La Pain</vegzettseg>
+	</foszakacs>
+	
+	<szakacs szkod="sz1" e_sz="e1">
+		<nev>Aki Csak Szeretne</nev>
+		<reszleg>Saucier</reszleg>
+		<vegzettseg>Kozepsuli</vegzettseg>
+		<vegzettseg>Egyetem</vegzettseg>
+	</szakacs>
+
+	<szakacs szkod="sz2" e_sz="e2">
+		<nev>Ertet Len</nev>
+		<reszleg>Gardenmanager</reszleg>
+		<vegzettseg>Kozepsuli</vegzettseg>
+	</szakacs>
+	
+	<szakacs szkod="sz3" e_sz="e3">
+		<nev>Boldog Talan</nev>
+		<reszleg>Platecleaner</reszleg>
+		<vegzettseg>Egyetem</vegzettseg>
+	</szakacs>
+	
+	<gyakornok gykod="gy1" e_gy="e1">
+		<nev>Gyakorló Andras</nev>
+		<Gyakorlat>
+			<Kezdes>2025.1.10</Kezdes>
+			<Idotartam>1 év</Idotartam>
+		</Gyakorlat>
+		<Muszak>Esti</Muszak>
+		<Muszak>Delelotti</Muszak>
+	</gyakornok>
+	
+	<gyakornok gykod="gy2" e_gy="e2">
+		<nev>Senki Se</nev>
+		<Gyakorlat>
+			<Kezdes>2023.3.12</Kezdes>
+			<Idotartam>1 Hónap</Idotartam>
+		</Gyakorlat>
+		<Muszak>Reggeli</Muszak>
+		<Muszak>Delelotti</Muszak>
+	</gyakornok>
+	
+	<gyakornok gykod="gy3" e_gy="e3">
+		<nev>Remény Telen</nev>
+		<Gyakorlat>
+			<Kezdes>2020.11.28</Kezdes>
+			<Idotartam>2.hónap</Idotartam>
+		</Gyakorlat>
+		<Muszak>Esti</Muszak>
+	</gyakornok>
+	
+	<vendeg vkod="v1">
+		<nev>Valami random</nev>
+		<eletkor>75</eletkor>
+		<cim>
+			<varos>Debrecen</varos>
+			<utca>Tocos kert</utca>
+			<hazszam>32</hazszam>
+		</cim>
+	</vendeg>
+	
+	<vendeg vkod="v2">
+		<nev>Holnap Után</nev>
+		<eletkor>22</eletkor>
+		<cim>
+			<varos>Debrecen</varos>
+			<utca>Simon</utca>
+			<hazszam>11</hazszam>
+		</cim>
+	</vendeg>
+	
+	<vendeg vkod="v3">
+		<nev>Soha Se</nev>
+		<eletkor>14</eletkor>
+		<cim>
+			<varos>Debrecen</varos>
+			<utca>Mihály</utca>
+			<hazszam>102</hazszam>
+		</cim>
+	</vendeg>
+	
+	<rendeles e_v_v="v1" e_v_e="e1" >
+		<osszeg>500 EU</osszeg>
+		<Etel>Steak</Etel>
+	</rendeles>
+	
+		<rendeles e_v_v="v2" e_v_e="e1" >
+		<osszeg>50 EU</osszeg>
+		<Etel>Levesek</Etel>
+	</rendeles>
+
+
+
+
+</vendeglatas>
